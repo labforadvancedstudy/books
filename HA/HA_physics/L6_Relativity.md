@@ -1,4 +1,5 @@
 # Level 6: The Fabric of Reality - Relativity
+![Physics](../cover/physics.png)
 *Einstein's revolution: space and time are one fabric, and it bends*
 
 > "When you sit with a nice girl for two hours you think it's only a minute, but when you sit on a hot stove for a minute you think it's two hours. That's relativity." - Albert Einstein (joking, but also not)

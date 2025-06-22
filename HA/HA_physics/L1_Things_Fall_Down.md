@@ -1,4 +1,5 @@
 # Level 1: Things Fall Down - The Child's Physics
+![Physics](../cover/physics.png)
 *Where every physicist begins: dropping stuff and burning fingers*
 
 > "The worthwhile problems are the ones you can really solve or help solve, the ones you can really contribute something to... No problem is too small or too trivial if we can really do something about it." - Richard Feynman

@@ -1,4 +1,5 @@
 # Level 2: Measuring the Dance - Numbers Meet Nature
+![Physics](../cover/physics.png)
 *When humanity's greatest invention - counting - met physics*
 
 > "See that the imagination of nature is far, far greater than the imagination of man." - Richard Feynman

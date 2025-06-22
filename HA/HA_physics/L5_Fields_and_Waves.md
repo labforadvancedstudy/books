@@ -1,4 +1,5 @@
 # Level 5: Space Itself Dances - Fields and Waves
+![Physics](../cover/physics.png)
 *Maxwell's madness: the vacuum is alive with possibility*
 
 > "Is it a wave or a particle? It's like asking: Is it a horse or a bicycle? No, it's something else entirely." - Richard Feynman

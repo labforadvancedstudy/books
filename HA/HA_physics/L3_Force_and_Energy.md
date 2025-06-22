@@ -1,4 +1,5 @@
 # Level 3: The Invisible Patterns - Force and Energy
+![Physics](../cover/physics.png)
 *Newton's revolution: imagining what you cannot see*
 
 > "It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong." - Richard Feynman

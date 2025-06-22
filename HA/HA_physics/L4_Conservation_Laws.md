@@ -1,4 +1,5 @@
 # Level 4: The Universe's Accounting System - Conservation Laws
+![Physics](../cover/physics.png)
 *Emmy Noether's cosmic joke: symmetry creates law*
 
 > "The symmetries of the laws of physics determine the properties of the particles found in nature." - Richard Feynman

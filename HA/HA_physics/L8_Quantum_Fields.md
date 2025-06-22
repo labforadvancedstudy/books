@@ -1,4 +1,5 @@
 # Level 8: Quantum Fields - The Holy Grail
+![Physics](../cover/physics.png)
 *Where particles aren't things, reality is excitations, and infinities haunt our dreams*
 
 > "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg (but Feynman would approve)

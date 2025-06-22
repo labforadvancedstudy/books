@@ -1,4 +1,5 @@
 # Level 7: God's Dice Game - Quantum Mechanics
+![Physics](../cover/physics.png)
 *Where common sense goes to die and reality gets uncomfortable*
 
 > "I think I can safely say that nobody understands quantum mechanics." - Richard Feynman

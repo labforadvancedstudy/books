@@ -1,4 +1,5 @@
 # Level 9: The Edge of Knowledge
+![Physics](../cover/physics.png)
 *Where theories multiply, certainties evaporate, and physics gets honest about what it doesn't know*
 
 > "I wanted very much to learn to draw, for a reason that I kept to myself: I wanted to convey an emotion I have about the beauty of the world." - Richard Feynman
