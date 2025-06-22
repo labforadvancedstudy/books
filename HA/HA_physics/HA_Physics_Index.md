@@ -1,6 +1,8 @@
 # Hierarchical Abstraction of Physics: A Feynman Journey
 *Dedicated to Richard P. Feynman (1918-1988) - who taught us that understanding is more important than knowing*
 
+![Physics](../cover/physics.png)
+
 > "If you want to learn about nature, to appreciate nature, it is necessary to understand the language that she speaks in." - RPF
 
 ## The Grand Hierarchy of Physical Understanding
