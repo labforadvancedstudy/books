@@ -1,4 +1,7 @@
 # Hierarchical Abstraction of Psychology: The Mind Understanding Itself
+
+![Psychology](../cover/psychology.png)
+
 *A journey from raw sensation to the mystery of consciousness*
 
 > "The first principle is that you must not fool yourself — and you are the easiest person to fool." - Richard Feynman
