@@ -1,4 +1,6 @@
 # Level 2: The Living Factory - Systems at Work
+
+![Life](../cover/life.png)
 *How trillions of workers coordinate without meetings, emails, or management*
 
 > "The body is a self-regulating factory that never closes, never rests completely, and rebuilds itself while running. Try doing that with any human-made system."

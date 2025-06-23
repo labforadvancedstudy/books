@@ -1,4 +1,6 @@
 # Level 8: Life as Concept - Beyond Carbon
+
+![Life](../cover/life.png)
 *What if life isn't about chemistry but computation? What if consciousness is all that matters?*
 
 > "Life is a pattern, not a substance. Like fire, it is a process, not a thing." - Norbert Wiener

@@ -1,4 +1,6 @@
 # Level 0: Being Alive - Direct Experience
+
+![Life](../cover/life.png)
 *The raw data of existence before science gets its hands on it*
 
 > "You are alive. You can tell because you're reading this. But what does that mean?" 

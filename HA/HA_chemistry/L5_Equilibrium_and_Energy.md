@@ -1,6 +1,8 @@
 # Level 5: Equilibrium and Energy - The Universe's Account Book
 *Nothing ever stops - reactions run both ways in a cosmic balancing act*
 
+![Chemistry](../cover/chemistry.png)
+
 > "The law that entropy always increases holds, I think, the supreme position among the laws of Nature." - Arthur Eddington
 
 ## The Great Chemical Deception

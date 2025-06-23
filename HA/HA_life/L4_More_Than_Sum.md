@@ -1,4 +1,6 @@
 # Level 4: More Than the Sum - Emergence and Organization
+
+![Life](../cover/life.png)
 *Why ant colonies are smarter than ants and you're smarter than your neurons*
 
 > "The whole is greater than the sum of its parts. Actually, the whole is completely different from its parts, doing things the parts never imagined possible."

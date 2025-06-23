@@ -1,5 +1,7 @@
 # L8: The Living Universe
 
+![Astronomy](../cover/astronomy.png)
+
 ## Consciousness Contemplates Cosmos
 
 Life transforms astronomy from abstract science to personal quest. Are we alone? How does matter become aware? What is life's cosmic significance? In this chapter, we explore astrobiology - not just the search for life elsewhere, but understanding life as a cosmic phenomenon. The universe spent 13.8 billion years creating beings capable of contemplating their origin.

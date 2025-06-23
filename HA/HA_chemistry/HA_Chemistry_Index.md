@@ -1,6 +1,8 @@
 # Hierarchical Abstraction of Chemistry: From First Stars to Conscious Molecules
 *Dedicated to Marie Curie (1867-1934) - who showed us that understanding nature requires getting your hands dirty*
 
+![Chemistry](../cover/chemistry.png)
+
 > "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - Marie Curie
 
 ## The Grand Hierarchy of Chemical Understanding

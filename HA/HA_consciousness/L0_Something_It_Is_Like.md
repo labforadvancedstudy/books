@@ -1,5 +1,7 @@
 # L0: Something It Is Like
 
+![Consciousness](../cover/consciousness.png)
+
 ## 박쥐가 되는 것은 어떤 느낌일까?
 
 지금 당신의 손을 보라.

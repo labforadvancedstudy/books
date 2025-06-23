@@ -1,4 +1,6 @@
 # Level 6: Life's Web - Ecological Symphonies
+
+![Life](../cover/life.png)
 *Nobody lives alone: the planet as a single living system*
 
 > "When we try to pick out anything by itself, we find it hitched to everything else in the universe." - John Muir

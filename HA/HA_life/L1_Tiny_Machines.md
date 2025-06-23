@@ -1,4 +1,6 @@
 # Level 1: Tiny Machines - The Cell Story
+
+![Life](../cover/life.png)
 *When we discovered we're not individuals but cities*
 
 > "It took us centuries to accept that the Earth isn't the center of the universe. It's taking us just as long to accept that 'I' am not the center of me."

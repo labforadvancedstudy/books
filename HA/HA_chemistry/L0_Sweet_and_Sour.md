@@ -1,6 +1,8 @@
 # Level 0: Sweet and Sour - The Sensory Chemistry
 *Where every chemist begins: tasting, smelling, and wondering why*
 
+![Chemistry](../cover/chemistry.png)
+
 > "The important thing is not to stop questioning. Curiosity has its own reason for existence." - Marie Curie
 
 ## The Laboratory You Were Born With

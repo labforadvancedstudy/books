@@ -1,6 +1,8 @@
 # Level 3: Atoms and Patterns - The Periodic Revolution
 *Mendeleev's dream: elements aren't random, they dance to a cosmic rhythm*
 
+![Chemistry](../cover/chemistry.png)
+
 > "It is the function of science to discover the existence of a general reign of order in nature and to find the causes governing this order." - Dmitri Mendeleev
 
 ## The Crazy Idea That Elements Repeat

@@ -1,4 +1,7 @@
 # Hierarchical Abstraction of Language: The Complete Grammar of Reality
+
+![Language](../cover/language.png)
+
 *From baby babble to AI language models - how humans learned to speak the universe*
 
 > "Language is the house of being." - Heidegger

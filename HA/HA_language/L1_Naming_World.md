@@ -1,4 +1,6 @@
 # Level 1: Naming the World
+
+![Language](../cover/language.png)
 *When sounds became meanings*
 
 > "In the beginning was the Word." - John 1:1  

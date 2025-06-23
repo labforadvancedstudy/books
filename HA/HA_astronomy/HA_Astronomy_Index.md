@@ -2,6 +2,8 @@
 
 ## From First Glance to Final Frontier
 
+![Astronomy](../cover/astronomy.png)
+
 *Dedicated to every human who ever looked up and wondered*
 
 > "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." - Carl Sagan

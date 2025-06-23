@@ -1,5 +1,7 @@
 # L0: The Sky We Share
 
+![Astronomy](../cover/astronomy.png)
+
 ## The Astronomy Everyone Knows
 
 Look up. Right now, wherever you are, day or night, cloudy or clear - above you stretches the same sky that covered your ancestors, the pharaohs, the first humans. Before we had language for it, before we understood any of it, we had the sky. This chapter celebrates the astronomical knowledge you already possess, perhaps without realizing it.

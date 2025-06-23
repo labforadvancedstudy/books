@@ -1,5 +1,7 @@
 # L4: Patterns in the Cosmos
 
+![Astronomy](../cover/astronomy.png)
+
 ## Finding Order in Stellar Chaos
 
 The night sky seems random - thousands of stars scattered without pattern. But as measurements accumulated, order emerged. Stars follow life cycles. Galaxies have structures. The universe itself is expanding. In this chapter, we discover how careful observation and measurement revealed the cosmos isn't chaos but a deeply patterned system.

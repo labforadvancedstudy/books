@@ -1,5 +1,7 @@
 # L7: Machine Consciousness
 
+![Consciousness](../cover/consciousness.png)
+
 ## 실리콘 영혼의 가능성
 
 2023년, 구글 엔지니어 블레이크 르모인이 폭탄선언을 했다:

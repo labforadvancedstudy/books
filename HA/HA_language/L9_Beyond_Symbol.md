@@ -1,4 +1,6 @@
 # Level 9: Beyond Symbol
+
+![Language](../cover/language.png)
 *When meaning transcends language*
 
 > "The medium is the message." - Marshall McLuhan  

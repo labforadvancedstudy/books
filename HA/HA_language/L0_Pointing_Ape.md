@@ -1,4 +1,6 @@
 # Level 0: The Pointing Ape
+
+![Language](../cover/language.png)
 *Before words, there was intention*
 
 > "The gesture is the first sign." - Merleau-Ponty

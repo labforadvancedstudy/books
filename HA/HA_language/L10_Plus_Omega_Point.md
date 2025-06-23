@@ -1,4 +1,6 @@
 # Level 10+: The Omega Point
+
+![Language](../cover/language.png)
 *Where all language becomes one*
 
 > "The Tao that can be spoken is not the eternal Tao." - Lao Tzu  

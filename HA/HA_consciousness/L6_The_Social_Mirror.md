@@ -1,5 +1,7 @@
 # L6: The Social Mirror
 
+![Consciousness](../cover/consciousness.png)
+
 ## 다른 마음의 발견
 
 갓난아기가 당신을 쳐다본다. 그 눈 속에 의식이 있을까?

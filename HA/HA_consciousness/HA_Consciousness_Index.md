@@ -1,5 +1,7 @@
 # HA Consciousness: What Is It Like To Be?
 
+![Consciousness](../cover/consciousness.png)
+
 *이 책은 의식이라는 미스터리를 파인만처럼 탐구한다. 복잡한 철학을 버리고, 직접 경험할 수 있는 것부터 시작한다.*
 
 ## 목차

@@ -1,5 +1,7 @@
 # L7: Origins and Evolution
 
+![Astronomy](../cover/astronomy.png)
+
 ## The Universe Has a History
 
 The cosmos isn't eternal and unchanging but has a beginning, a history, and a future. Stars are born and die. Galaxies collide and merge. The universe itself expands and cools. In this chapter, we explore cosmic evolution - how everything from quarks to galaxy clusters emerged from a hot, dense beginning and continues evolving toward an uncertain future.

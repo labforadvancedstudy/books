@@ -1,5 +1,7 @@
 # L3: Numbers Meet the Night
 
+![Astronomy](../cover/astronomy.png)
+
 ## Measurement and Mathematics Transform Astronomy
 
 Seeing Jupiter's moons was revolutionary. But predicting exactly when Io would disappear behind Jupiter? That required numbers. In this chapter, astronomy transforms from qualitative to quantitative. We discover how mathematics became astronomy's language, turning vague descriptions into precise predictions.

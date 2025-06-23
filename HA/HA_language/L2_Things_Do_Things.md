@@ -1,4 +1,6 @@
 # Level 2: Things Do Things
+
+![Language](../cover/language.png)
 *The birth of the sentence*
 
 > "In the beginning was the Verb." - Goethe (disagreeing with John)

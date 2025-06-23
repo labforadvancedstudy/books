@@ -1,4 +1,6 @@
 # Level 7: The Digital Explosion
+
+![Language](../cover/language.png)
 *When machines joined the conversation*
 
 > "Code is poetry." - WordPress  

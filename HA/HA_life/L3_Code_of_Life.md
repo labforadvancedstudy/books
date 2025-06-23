@@ -1,4 +1,6 @@
 # Level 3: The Code of Life - Information Made Flesh
+
+![Life](../cover/life.png)
 *When we discovered that life is literature written in molecules*
 
 > "What is life? It is a tale told by DNA, full of sound and fury, signifying... everything."

@@ -1,6 +1,8 @@
 # Level 1: Fire and Rust - Transformation Made Visible
 *When chemistry stops hiding and shows itself*
 
+![Chemistry](../cover/chemistry.png)
+
 > "I would rather have questions that can't be answered than answers that can't be questioned." - Richard Feynman
 
 ## The Magic Show That Never Ends

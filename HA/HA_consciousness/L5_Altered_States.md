@@ -1,5 +1,7 @@
 # L5: Altered States
 
+![Consciousness](../cover/consciousness.png)
+
 ## 의식의 다른 얼굴들
 
 지금 당신은 깨어있다. 확실한가?

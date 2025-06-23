@@ -1,6 +1,8 @@
 # Level 6: Quantum Chemistry - Where Particles Become Waves
 *The chemical bond doesn't exist - only probability clouds touching in space*
 
+![Chemistry](../cover/chemistry.png)
+
 > "If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet." - Niels Bohr
 
 ## The Catastrophe That Started Everything

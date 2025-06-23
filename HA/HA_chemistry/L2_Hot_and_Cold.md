@@ -1,6 +1,8 @@
 # Level 2: Hot and Cold - Energy's Hidden Dance
 *Chemistry isn't just about stuff changing - it's about energy flowing*
 
+![Chemistry](../cover/chemistry.png)
+
 > "The energy produced by the breaking down of the atom is a very poor kind of thing. Anyone who expects a source of power from the transformation of these atoms is talking moonshine." - Ernest Rutherford (spectacularly wrong, 1933)
 
 ## The Touch Test of Chemistry

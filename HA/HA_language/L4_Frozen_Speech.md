@@ -1,4 +1,6 @@
 # Level 4: Frozen Speech
+
+![Language](../cover/language.png)
 *Writing transforms everything*
 
 > "Writing is the painting of the voice." - Voltaire  

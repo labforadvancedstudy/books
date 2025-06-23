@@ -1,5 +1,7 @@
 # L3: The Binding Magic
 
+![Consciousness](../cover/consciousness.png)
+
 ## 지금 당신 앞의 커피잔
 
 커피잔을 보고 있다고 생각해보자:

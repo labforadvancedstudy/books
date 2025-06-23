@@ -1,4 +1,6 @@
 # Level 8: The Learning Machines
+
+![Language](../cover/language.png)
 *When AI learned to speak*
 
 > "Language models are not just learning language, they're learning the patterns of thought." - Unknown AI researcher  

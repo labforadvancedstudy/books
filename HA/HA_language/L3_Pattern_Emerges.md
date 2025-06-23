@@ -1,4 +1,6 @@
 # Level 3: The Pattern Emerges
+
+![Language](../cover/language.png)
 *Grammar crystallizes from chaos*
 
 > "Grammar is the logic of speech, even as logic is the grammar of reason." - Richard Chenevix Trench

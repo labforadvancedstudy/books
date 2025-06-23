@@ -1,5 +1,7 @@
 # L5: Extreme Physics Laboratories
 
+![Astronomy](../cover/astronomy.png)
+
 ## The Universe as Experiment
 
 Earth's laboratories face limits. We can't create stellar cores' pressure, black holes' gravity, or magnetars' magnetic fields. But the universe runs these experiments naturally. In this chapter, we explore cosmic environments that push physics to breaking points, revealing nature's behavior under conditions we could never recreate.

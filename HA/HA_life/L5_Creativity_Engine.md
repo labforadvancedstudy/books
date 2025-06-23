@@ -1,4 +1,6 @@
 # Level 5: The Creativity Engine - Evolution's Algorithm
+
+![Life](../cover/life.png)
 *How random errors and death create all the beauty in the living world*
 
 > "Evolution is cleverer than you are." - Leslie Orgel

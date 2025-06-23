@@ -1,6 +1,8 @@
 # Level 7: Statistical Symphony - Order from Chaos
 *Temperature is speed, pressure is drumming, chemistry is jazz improvisation by 10²³ molecules*
 
+![Chemistry](../cover/chemistry.png)
+
 > "Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics." - David Goodstein
 
 ## The Trillion Trillion Member Orchestra

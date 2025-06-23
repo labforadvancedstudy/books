@@ -1,5 +1,7 @@
 # L8: The Future of Consciousness
 
+![Consciousness](../cover/consciousness.png)
+
 ## 의식의 다음 장
 
 2045년. 당신은 88세다. 의사가 제안한다:

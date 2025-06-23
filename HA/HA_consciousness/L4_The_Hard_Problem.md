@@ -1,5 +1,7 @@
 # L4: The Hard Problem
 
+![Consciousness](../cover/consciousness.png)
+
 ## 좀비 실험
 
 당신과 완전히 똑같은 존재를 상상해보자:

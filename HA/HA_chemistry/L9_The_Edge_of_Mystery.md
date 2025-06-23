@@ -1,6 +1,8 @@
 # Level 9: The Edge of Mystery
 *Where chemistry meets consciousness, cosmos, and the limits of knowledge*
 
+![Chemistry](../cover/chemistry.png)
+
 > "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science." - Albert Einstein
 
 ## The Ultimate Question: What Is Life?

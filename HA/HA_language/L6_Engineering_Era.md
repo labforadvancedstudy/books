@@ -1,4 +1,6 @@
 # Level 6: The Engineering Era
+
+![Language](../cover/language.png)
 *From discovery to design*
 
 > "A language is a dialect with an army and navy." - Max Weinreich  

@@ -1,4 +1,6 @@
 # Level 5: The Mirror Stage
+
+![Language](../cover/language.png)
 *Language discovers itself*
 
 > "Language is the house that man built and then discovered he was living in." - Unknown linguist

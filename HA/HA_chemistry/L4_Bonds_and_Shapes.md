@@ -1,6 +1,8 @@
 # Level 4: Bonds and Shapes - The Architecture of Molecules
 *Molecules aren't flat diagrams - they're 3D sculptures that determine everything*
 
+![Chemistry](../cover/chemistry.png)
+
 > "I think that it is very important to have a feel, a feeling for shape... I mean the shape in space of molecules." - Linus Pauling
 
 ## The Great Molecular Handshake

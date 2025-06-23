@@ -1,5 +1,7 @@
 # L1: Patterns Become Predictions
 
+![Astronomy](../cover/astronomy.png)
+
 ## When Watching Became Recording
 
 Humans are pattern-finding machines. Give us random dots, we see faces. Give us recurring events, we find rhythms. Our ancestors' survival depended on recognizing patterns - when to plant, when to migrate, when storms approach. The sky, with its reliable cycles, became humanity's first laboratory for transforming observations into predictions.

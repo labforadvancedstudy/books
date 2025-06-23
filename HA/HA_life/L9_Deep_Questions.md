@@ -1,4 +1,6 @@
 # Level 9: The Deep Questions - Where Answers End
+
+![Life](../cover/life.png)
 *The mysteries that make grown scientists cry into their coffee*
 
 > "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science." - Einstein

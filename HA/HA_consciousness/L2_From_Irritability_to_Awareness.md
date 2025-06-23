@@ -1,5 +1,7 @@
 # L2: From Irritability to Awareness
 
+![Consciousness](../cover/consciousness.png)
+
 ## 38억 년 전, 최초의 느낌
 
 원시 바다. 첫 번째 세포.

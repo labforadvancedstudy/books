@@ -1,5 +1,7 @@
 # L6: The Connected Cosmos
 
+![Astronomy](../cover/astronomy.png)
+
 ## Synthesis and Unification
 
 For centuries, astronomy meant studying light. Then we discovered the universe speaks in many voices - gravitational waves, neutrinos, cosmic rays. Each messenger carries unique information. In this chapter, we explore how combining different observations creates understanding greater than the sum of parts. The cosmos is deeply interconnected, and recognizing these connections transforms isolated facts into unified comprehension.

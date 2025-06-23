@@ -1,6 +1,8 @@
 # Level 8: Symmetry and Computation - The Mathematical Heart
 *Where chemistry becomes mathematics and computers dream of molecules*
 
+![Chemistry](../cover/chemistry.png)
+
 > "The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known." - Paul Dirac (1929, slightly overconfident)
 
 ## The Hidden Mathematics of Molecules

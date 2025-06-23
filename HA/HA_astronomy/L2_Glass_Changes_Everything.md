@@ -1,5 +1,7 @@
 # L2: Glass Changes Everything
 
+![Astronomy](../cover/astronomy.png)
+
 ## The Telescope Revolution
 
 In 1609, Galileo Galilei heard rumors of a Dutch invention that made distant objects appear near. Within days, he built his own version. When he pointed this simple tube with lenses at the sky, everything changed. Not the sky - that remained the same. But human perception transformed forever. In this chapter, we experience that same revelation: celestial objects aren't lights, they're places.

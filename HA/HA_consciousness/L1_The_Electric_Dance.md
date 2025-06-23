@@ -1,5 +1,7 @@
 # L1: The Electric Dance
 
+![Consciousness](../cover/consciousness.png)
+
 ## 당신의 뇌에서 지금 일어나는 일
 
 이 문장을 읽는 순간, 당신의 뇌에서는:

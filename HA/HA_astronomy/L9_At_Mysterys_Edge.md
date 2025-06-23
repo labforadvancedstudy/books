@@ -1,5 +1,7 @@
 # L9: At Mystery's Edge
 
+![Astronomy](../cover/astronomy.png)
+
 ## The Questions That Break Our Frameworks
 
 At astronomy's frontiers, observations collide with comprehension. Dark energy accelerates cosmic expansion, but we don't know what it is. Dark matter dominates gravity, yet remains invisible. The universe follows mathematical laws with no explanation for why these laws and not others. In this final chapter, we confront astronomy's deepest mysteries - questions that may transform or transcend our frameworks entirely.

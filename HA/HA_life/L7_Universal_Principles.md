@@ -1,4 +1,6 @@
 # Level 7: Universal Principles - Life in the Abstract
+
+![Life](../cover/life.png)
 *When physics, chemistry, and information theory collide to reveal life's deepest patterns*
 
 > "Life is not a miracle. It is a natural consequence of the laws of physics and chemistry." - Christian de Duve

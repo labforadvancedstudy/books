@@ -1,5 +1,7 @@
 # L9: You Are The Universe
 
+![Consciousness](../cover/consciousness.png)
+
 ## 가장 놀라운 사실
 
 천체물리학자 닐 디그래스 타이슨이 물었다:
