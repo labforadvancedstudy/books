@@ -111,6 +111,21 @@ This changes everything. Instead of writing 22/7, she can write 3.142857... The 
 
 But it reveals a disturbing truth: most decimals never end and never repeat. The rational numbers, which seemed to fill the number line, are actually islands in an ocean of irrationals.
 
+### The Magic of Missing Digits
+
+Amara discovers something strange. Her teacher shows her: 12345679 × 9 = 111111111
+
+"Where's the 8?" she asks. The missing 8 is the key. 
+
+Watch the pattern:
+- 12345679 × 9 = 111111111
+- 12345679 × 18 = 222222222  
+- 12345679 × 27 = 333333333
+- ...all the way to...
+- 12345679 × 81 = 999999999
+
+The decimal system has hidden symmetries. That missing 8 creates a fraction (111111111 ÷ 9) that, when multiplied by multiples of 9, reveals the architecture of base-10 itself. Numbers aren't just quantities - they're patterns waiting to be discovered.
+
 ## A Probability Story
 
 Amara flips a coin. What's the probability of heads?

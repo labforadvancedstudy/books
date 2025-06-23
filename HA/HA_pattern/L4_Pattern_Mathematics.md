@@ -189,6 +189,13 @@ Topology is pattern viewed through transformation - what remains when everything
 
 Patterns can be algorithms:
 
+**The Knight's Tour:**
+A chess knight visiting every square exactly once - simple question, profound implications:
+- Graph theory problem (Hamiltonian path)
+- Warnsdorff's heuristic: Always move to the square with fewest onward moves
+- Closed tours form perfect cycles through 64 squares
+- Demonstrates how constraints (L-shaped moves) create beautiful complexity
+
 **L-Systems** (Lindenmayer Systems):
 ```
 Axiom: F
