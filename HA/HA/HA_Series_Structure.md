@@ -418,7 +418,7 @@ The universe is understanding its own understanding.
 
   1. 생명과학/자연과학 영역
 
-  - HA_evolution - 진화 (진화 자체를 계층적 추상화 시스템으로)
+  - [x] HA_evolution - 진화 (진화 자체를 계층적 추상화 시스템으로)
   - HA_biology - 생물학 (life보다 넓은 생물학적 시스템 전반)
   - HA_ecology - 생태학 (생태계와 환경 시스템)
   - HA_brain/HA_neuroscience - 뇌과학 (의식/심리학을 넘어선 뇌 시스템)
@@ -430,7 +430,7 @@ The universe is understanding its own understanding.
   - HA_geology/HA_earth - 지질학/지구과학
   - HA_climate - 기후 시스템
   - HA_ocean - 해양 시스템
-  - HA_energy - 에너지 (불에서 핵에너지, 암흑에너지까지)
+  - [x] HA_energy - 에너지 (불에서 핵에너지, 암흑에너지까지)
 
   3. 인간 활동/문화 영역
 
@@ -439,7 +439,7 @@ The universe is understanding its own understanding.
   - HA_education - 교육과 학습 시스템
   - HA_agriculture/HA_food - 농업과 식량 생산
   - HA_architecture - 건축과 건조 환경
-  - HA_music - 음악 (독립된 영역으로)
+  - [x] HA_music - 음악 (독립된 영역으로)
   - HA_sports - 스포츠와 신체 경쟁
   - HA_fashion - 패션과 의복 시스템
 
@@ -447,11 +447,11 @@ The universe is understanding its own understanding.
 
   - HA_family - 가족 구조와 친족 관계
   - HA_city/HA_urban - 도시와 도시화
-  - HA_democracy - 민주주의 시스템
-  - HA_empire - 제국과 제국주의
-  - HA_revolution - 혁명 시스템
-  - HA_trade/HA_commerce - 무역과 상업 (화폐/경제를 넘어선)
-  - HA_transportation - 교통 시스템의 진화
+  - [x] HA_democracy - 민주주의 시스템
+  - [x] HA_empire - 제국과 제국주의
+  - [x] HA_revolution - 혁명 시스템
+  - [x] HA_trade - 무역과 상업 (화폐/경제를 넘어선)
+  - [x] HA_transportation - 교통 시스템의 진화
 
   5. 정보/시스템 이론 영역
 
@@ -494,7 +494,7 @@ The universe is understanding its own understanding.
   ---
   💡 특히 주목할 만한 누락 주제들:
 
-  1. HA_evolution - 진화는 HA의 핵심 원리를 자연에서 구현한 것
+  1. [x] HA_evolution - 진화는 HA의 핵심 원리를 자연에서 구현한 것
   2. HA_brain - 뇌는 가장 복잡한 계층적 시스템
   3. HA_quantum - 양자역학은 현실의 가장 기본적인 계층
   4. HA_time - 시간은 모든 변화와 진화의 차원
