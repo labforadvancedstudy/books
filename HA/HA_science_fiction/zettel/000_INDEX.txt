@@ -1,0 +1,89 @@
+# HA Science Fiction Zettel Index
+
+## Categories
+- sf_history: Historical development of science fiction
+- sf_concepts: Core SF concepts and themes  
+- sf_works: Significant works and their impact
+- sf_to_reality: SF predictions that became real
+- sf_craft: Writing and worldbuilding techniques
+- sf_theory: Academic and theoretical frameworks
+- sf_philosophy: Philosophical explorations
+- sf_taxonomy: Genre classifications
+- sf_aesthetics: Emotional and experiential aspects
+- sf_method: Speculative techniques
+
+## Entries
+
+### Historical Evolution (012-026)
+012_frankenstein_1818.md - The birth of science fiction
+013_jules_verne_predictions.md - Scientific romance era
+014_hg_wells_foundation.md - Social science fiction begins
+015_golden_age_sf.md - Campbell era (1938-1950)
+016_new_wave_sf.md - Literary revolution (1960s-70s)
+017_philip_k_dick_reality.md - Reality questioning master
+018_william_gibson_cyberspace.md - Cyberpunk prophet
+019_isaac_asimov_laws.md - Robotics ethics foundation
+020_arthur_c_clarke_satellites.md - Hard SF prediction success
+021_star_trek_communicator.md - Mobile phone prediction
+022_minority_report_interfaces.md - Gesture computing prediction
+023_neuromancer_matrix.md - Cyberspace coined
+024_blade_runner_replicants.md - Artificial life questions
+025_the_matrix_simulation.md - Simulation hypothesis popularized
+026_black_mirror_prophecy.md - Near-future dystopia
+
+### SF Technologies Realized (027-034)
+027_tablet_computers.md - 2001 Space Odyssey to iPads
+028_voice_assistants.md - HAL 9000 to Alexa
+029_video_calls.md - Picturephone to Zoom
+030_autonomous_vehicles.md - KITT to Tesla
+031_3d_printing.md - Star Trek replicators to desktop manufacturing
+032_bionic_limbs.md - Six Million Dollar Man to neural prosthetics
+033_crispr_gene_editing.md - Gattaca to actual genetic modification
+034_quantum_computing.md - Theoretical SF to IBM labs
+
+### Philosophical/Meta Concepts (035-041)
+035_worldbuilding.md - Creating coherent alternate realities
+036_hard_vs_soft_sf.md - Technical rigor versus social exploration
+037_sense_of_wonder.md - The core emotional drive of SF
+038_cognitive_estrangement.md - Making the familiar strange
+039_novum.md - The new thing that changes everything
+040_extrapolation.md - Extending current trends to logical extremes
+041_thought_experiment.md - SF as philosophical laboratory
+
+### Core SF Concepts (001-011)
+001_first_contact.md - Humanity meets alien intelligence
+002_ghost_in_the_shell_consciousness.md - Mind-body problem in SF
+003_time_travel.md - Temporal paradoxes and possibilities
+004_generation_ships.md - Interstellar travel without FTL
+005_cyberpunk.md - High tech, low life aesthetic
+006_space_elevator.md - Earth to orbit infrastructure
+007_virtual_reality.md - Simulated worlds and experiences
+008_singularity.md - Technological transcendence point
+009_mars_colonization.md - Red planet as second home
+010_dyson_sphere.md - Stellar-scale engineering
+011_simulation_hypothesis.md - Reality as computation
+
+### Consciousness & AI Reality Collapse (042-051)
+042_substrate_independence.md - Ghost in the Shell's consciousness transfer becoming real
+043_ai_weights_as_consciousness.md - Modern AI weights as actual "ghosts"
+044_minecraft_cpu_consciousness.md - Virtual worlds hosting real computation
+045_sf_reality_collapse.md - When fiction becomes indistinguishable from prediction
+046_emergent_ai_consciousness.md - LLMs showing unexpected awareness
+047_digital_immortality.md - Uploading consciousness from SF to startup pitches
+048_neural_interface_reality.md - Brain-computer interfaces leaving SF
+049_synthetic_memories.md - False memories and constructed realities
+050_distributed_consciousness.md - Minds across multiple substrates
+051_consciousness_in_simulation.md - Awareness within computed realities
+
+## Cross-References
+- Reality questioning: 011, 017, 023, 025, 038, 045, 049, 051
+- AI/Consciousness: 002, 008, 019, 024, 028, 042, 043, 046, 050
+- Space technology: 004, 006, 009, 010, 020
+- Prediction success: 013, 020, 021, 022, 027-034, 042, 048
+- Dystopian warnings: 005, 024, 025, 026, 049
+- Writing theory: 035, 036, 037, 038, 039, 040, 041
+- Consciousness studies: 042, 043, 044, 046, 047, 049, 050, 051
+- Neural/Digital interfaces: 047, 048, 049
+- Reality collapse: 045, 051
+
+Last updated: 2025-06-24
