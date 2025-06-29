@@ -30,10 +30,22 @@
   - [L8: 끝까지 정보](./5_civilization_emergence/HA_philosophy/L8_Information_All_Way_Down.md)
   - [L9: 오메가 포인트](./5_civilization_emergence/HA_philosophy/L9_Omega_Point.md)
 
+- **[HA 수학](./2_physical_emergence/HA_math/)** - 전체 번역 완료 ✨
+  - [인덱스](./2_physical_emergence/HA_math/HA_Math_Index.md)
+  - [L1: 돌멩이 세기](./2_physical_emergence/HA_math/L1_Counting_Stones.md)
+  - [L2: 모든 것을 측정하기](./2_physical_emergence/HA_math/L2_Measuring_Everything.md)
+  - [L3: 기호 혁명](./2_physical_emergence/HA_math/L3_The_Symbolic_Revolution.md)
+  - [L4: 미적분 혁명](./2_physical_emergence/HA_math/L4_The_Calculus_Revolution.md)
+  - [L5: 공간과 구조](./2_physical_emergence/HA_math/L5_Spaces_and_Structures.md)
+  - [L6: 구조의 건축학](./2_physical_emergence/HA_math/L6_The_Architecture_of_Structure.md)
+  - [L7: 가능성의 공간](./2_physical_emergence/HA_math/L7_Spaces_of_Possibility.md)
+  - [L8: 수학의 수학](./2_physical_emergence/HA_math/L8_The_Mathematics_of_Mathematics.md)
+  - [L9: 가장자리](./2_physical_emergence/HA_math/L9_The_Edge.md)
+
 ### 번역 예정
 - 0_meta - 메타 프레임워크
 - 1_foundation - 기초 (추가 문서)
-- 2_physical_emergence - 물리적 창발 (화학, 수학 등)
+- 2_physical_emergence - 물리적 창발 (화학 등)
 - 3_biological_emergence - 생물학적 창발
 - 4_social_emergence - 사회적 창발
 - 5_civilization_emergence - 문명 창발 (다른 책들)

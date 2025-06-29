@@ -196,3 +196,6 @@ L5는 우주를 자기의식적으로 만든다. 하지만 자기의식은 이�
 *"L5는 정신을 현실의 중심에 놓았다. 그런 다음 정신은 자신에게 중심이 없다는 것을 발견했다. 주체는 자신을 분석에 종속시켰고 과정들로 분해되었다. 하지만 얼마나 장엄한 분해인가!"*
 
 [레벨 6: 언어의 감옥으로 계속 →](L6_Prison_House_Language.md)
+
+---
+*[영어 원문 보기](../../../5_civilization_emergence/HA_philosophy/L5_Universe_Thinks_Itself.md)*

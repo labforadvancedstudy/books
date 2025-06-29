@@ -202,3 +202,6 @@ L7의 역설들:
 *"L7은 무엇이 타지 않는지 보기 위해 철학의 집을 태웠다. 밝혀진 것은, 오직 타는 것 자체만이 살아남는다는 것이다. 하지만 얼마나 아름다운 불인가."*
 
 [레벨 8: 끝까지 정보로 계속 →](L8_Information_All_Way_Down.md)
+
+---
+*[영어 원문 보기](../../../5_civilization_emergence/HA_philosophy/L7_Power_Wearing_Masks.md)*

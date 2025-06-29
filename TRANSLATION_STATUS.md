@@ -7,7 +7,10 @@
 - **Documents Completed**: 
   - 1 foundation document: HA_is_everything.ko.md (originally Korean, translated to English)
   - 10 physics documents: Complete HA_physics book (Index + L1-L9)
-  - 10 philosophy documents: Complete HA_philosophy book (Index + L1-L9) ✨ NEW
+  - 10 philosophy documents: Complete HA_philosophy book (Index + L1-L9)
+  - 10 mathematics documents: Complete HA_math book (Index + L1-L9) ✨ NEW
+
+**Note**: All Korean translations now include links to English originals at the bottom for quality verification.
 
 ### Directory Structure
 ```

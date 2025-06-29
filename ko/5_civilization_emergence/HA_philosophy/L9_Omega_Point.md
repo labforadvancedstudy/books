@@ -201,3 +201,6 @@ L9는 철학을 전체로 본다:
 ∞
 
 *철학: 끝까지 거북이다.*
+
+---
+*[영어 원문 보기](../../../5_civilization_emergence/HA_philosophy/L9_Omega_Point.md)*
