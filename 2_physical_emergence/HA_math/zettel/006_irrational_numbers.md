@@ -4,7 +4,10 @@
 Irrational numbers shattered the Pythagorean dream - not everything can be expressed as the ratio of whole numbers.
 
 ## Content
-The Pythagoreans believed "all is number" - meaning ratios of integers. Then someone drew a square with side length 1 and asked: how long is the diagonal?
+The Pythagoreans believed "all is number" - meaning ratios of integers. Then Hippasus drew a square with side length 1 and asked: how long is the diagonal?
+
+**The Fatal Discovery (c. 470 BCE):**
+Legend says Hippasus made his discovery on a ship. When he proved √2 was irrational, his Pythagorean brothers were horrified. Their entire worldview - that the universe was built on integer ratios - crumbled. Some say he was thrown overboard for revealing this "unspeakable" truth.
 
 √2 cannot be written as a fraction. The proof is elegant violence:
 - Assume √2 = p/q in lowest terms
@@ -29,7 +32,9 @@ The irrationals revealed that infinity hides not just in the large, but in the s
 → [[real_numbers_continuum]]
 → [[transcendental_numbers]]
 → [[dedekind_cuts]]
-← [[fractions_division]]
+→ [[hippasus_dangerous_discovery]]
+→ [[pythagoras_mystic_of_numbers]]
+← [[005_fractions_division]]
 
 ---
 Level: L3

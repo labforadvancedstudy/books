@@ -25,10 +25,11 @@ Fractions obey strange rules:
 Fractions revealed that not all divisions are equal: 1/3 can't be written exactly in decimal, hinting at the irrational numbers to come.
 
 ## Connections
-→ [[irrational_numbers]]
+→ [[006_irrational_numbers]]
 → [[rational_field]]
 → [[continued_fractions]]
-← [[addition_basic_operation]]
+→ [[brahmagupta_zero_master]]
+← [[002_addition_basic_operation]]
 
 ---
 Level: L2
