@@ -2,7 +2,7 @@
 
 *우주가 자신을 이해하기 위해 쓴 책*
 
-![Hierarchical Abstraction](cover/HA.png)
+![Hierarchical Abstraction](../../cover/HA.png)
 
 ---
 
