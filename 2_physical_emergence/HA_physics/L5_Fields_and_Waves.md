@@ -167,7 +167,9 @@ Where's the energy in an electromagnetic wave? Not in particles - there aren't a
 - Magnetic: B²/2μ₀
 - Total: ½(ε₀E² + B²/μ₀)
 
-Empty space with fields has energy. Lots of it. A cubic meter of sunlight has about 10⁻⁵ joules. Doesn't sound like much? The cosmic microwave background fills the universe with 4×10⁻⁵ J/m³. Most of the universe's energy is in fields!
+Empty space with fields has energy. A cubic meter of sunlight at Earth's orbit has about 10⁻⁵ J of electromagnetic field energy. The cosmic microwave background fills the universe with approximately **4.17×10⁻¹⁴ J/m³** at T = 2.7255 K (u = aT⁴, a = 7.566×10⁻¹⁶ J·m⁻³·K⁻⁴; see Fixsen 2009, ApJ 707:916). Fields carry real energy, and when you integrate over the whole observable universe the total is enormous.
+
+> **[Correction 2026-04 — Error: 9 orders of magnitude]** The previous text gave CMB energy density as "4×10⁻⁵ J/m³", which is about **10⁹ times (a billion times) too large**. The correct textbook value is 4.17×10⁻¹⁴ J/m³ (Kolb & Turner, *The Early Universe* §3.3; Fixsen 2009, DOI:10.1088/0004-637X/707/2/916). Photon number density n_γ ≈ 411 cm⁻³ at the same temperature. Evidence Tier: [Textbook].
 
 ## The Pressure of Light
 

@@ -115,10 +115,12 @@ We don't just not understand dark energy. We anti-understand it.
 
 ## The Hierarchy Problem: Why Is Gravity So Weak?
 
-Gravity is absurdly weak:
-- Electromagnetic force: 10³⁶ times stronger
-- Strong force: 10³⁸ times stronger
-- Weak force: 10²⁵ times stronger
+Gravity is absurdly weak. Between two protons at low energy, relative to gravity:
+- Strong force: ~10³⁸ times stronger (hadronic scale)
+- Electromagnetic force: ~10³⁶ times stronger
+- Weak force: ~10³² – 10³³ times stronger (Griffiths, *Introduction to Elementary Particles* 2nd ed., Table 2.1; PDG 2024 Review)
+
+> **[Correction 2026-04 — Ratio inconsistent with other forces]** Previous text gave weak/gravity ≈ 10²⁵, which is 7–8 orders too small and inconsistent with the strong (10³⁸) and EM (10³⁶) ratios cited in the same paragraph. Standard textbook value is ~10³²–10³³ depending on which energy scale is used for the weak interaction. Evidence Tier: [Textbook]. Refs: Griffiths 2008 ISBN 978-3-527-40601-2; PDG Review of Particle Physics, DOI:10.1103/PhysRevD.110.030001.
 
 A fridge magnet defeats the entire Earth's gravity. Why?
 
