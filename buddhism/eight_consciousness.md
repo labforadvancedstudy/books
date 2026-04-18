@@ -130,9 +130,19 @@ class AlayaConsciousness:
                 'neural': 'innate_releasing_mechanisms'
             },
             'karmic_seeds': {
-                'content': 'action_tendencies',
-                'encoding': 'epigenetic_markers',
-                'transmission': 'transgenerational'
+                # [Speculative / Cross-disciplinary analogy — NOT equivalence]
+                # Correction 2026-04: Previous text equated 알라야식(ālaya-vijñāna)
+                # with "epigenetic markers + DNA". This is a category error:
+                # — Yogācāra ālaya is a phenomenological/mental continuum;
+                #   epigenetics is a biochemical mechanism (methylation, histone
+                #   modification, etc.).
+                # — No Yogācāra source (Saṃdhinirmocana, Yogācārabhūmi,
+                #   Vasubandhu, Xuanzang) makes or implies this equivalence.
+                # — Claim is the current author's metaphor, not doctrine.
+                'content': 'action_tendencies (phenomenological)',
+                'encoding_analogy': 'epigenetic_markers — [Speculative analogy only]',
+                'transmission_analogy': 'transgenerational — [Speculative analogy only]',
+                'note': 'Buddhist doctrine does not identify alaya with biology'
             }
         }
         

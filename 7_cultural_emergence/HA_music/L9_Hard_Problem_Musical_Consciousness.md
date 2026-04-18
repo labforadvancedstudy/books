@@ -1,3 +1,4 @@
+<!-- [Phase 1G flag 2026-04] L9 template pattern detected ("universe questioning itself"). See 0_meta/L9_TEMPLATE_WARNING.md. Phase 2 will rewrite to domain-specific open-problem form. -->
 # L9: The Hard Problem of Musical Consciousness
 
 > "Without music, life would be a mistake."

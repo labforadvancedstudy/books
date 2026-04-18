@@ -1,4 +1,6 @@
 # Level 1: Spin and Steel
+<!-- Evidence Tier: Speculative (fictional engineering scenario — Niven's Ringworld) -->
+<!-- Physics of centripetal acceleration: Textbook. Scrith material: Fictional. -->
 
 You're on the transport from Mars to the asteroid belt. For three months you've lived in Mars's 0.38g, and your body has adapted. But now the captain announces spin-up, and something strange happens.
 
@@ -26,7 +28,9 @@ Radius: 93 million miles (1 AU - the distance from Earth to Sun)
 Rotation: Once every nine days
 Rim velocity: 770 miles per second
 
-That velocity isn't arbitrary. Plug it into our formula with Ringworld's radius, and you get exactly 1g of acceleration. But 770 miles per second is 0.004% the speed of light. At that speed, relativistic effects start creeping in. Time runs differently at the rim than at the axis. Not much - seconds per year - but enough to matter over geological time.
+That velocity isn't arbitrary. Plug it into our formula with Ringworld's radius, and you get exactly 1g of acceleration. 770 mi/s ≈ 1240 km/s ≈ **0.41% the speed of light** (v/c ≈ 4.1 × 10⁻³). At that speed, special-relativistic time dilation is γ − 1 ≈ ½(v/c)² ≈ 8.5 × 10⁻⁶ — about **270 seconds per year**. Small but cumulative; meaningful on geological time scales.
+
+> **[Correction 2026-04 — Factor-of-100 error]** Earlier text said "0.004% the speed of light." The correct figure is **0.41%** — a hundredfold difference. Source: v = 2π R / T with R = 1 AU = 1.496×10¹¹ m, T = 9 days = 7.776×10⁵ s → v = 1.209×10⁶ m/s; divide by c = 2.998×10⁸ m/s. Evidence Tier: [Textbook].
 
 ## The Spin-Up Problem
 

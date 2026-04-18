@@ -73,19 +73,26 @@ Kant opens door. Germans rush through:
 
 They're drunk on systematization. Everything must fit. Reality is reason unfolding.
 
-## Hegel's Dialectic
+## Hegel's Dialectic — with a common misattribution corrected
 
-History has logic:
+> **[Correction 2026-04 — Misattribution fixed]** The formula "thesis–antithesis–synthesis" is widely *attributed* to Hegel but was actually coined by **Fichte** and popularized by Heinrich Moritz Chalybäus (*Historische Entwicklung der spekulativen Philosophie von Kant bis Hegel*, 1837). Hegel himself called triadic schemas of this form "lifeless schema" (*Phenomenology of Spirit*, Preface). Hegel's actual triadic structure is **abstract — negative — concrete** (or "immediate — mediated — concrete"). See Mueller, G. E. (1958), "The Hegel Legend of 'Thesis-Antithesis-Synthesis'," *Journal of the History of Ideas* 19(3): 411–414. [JSTOR](https://www.jstor.org/stable/2708045). Evidence Tier: [Textbook].
+
+History has logic. Two readings:
+
+**(A) Post-Fichte popular reading (what most people mean by "Hegel"):**
 1. **Thesis**: An idea/state exists
-2. **Antithesis**: Its contradiction emerges  
+2. **Antithesis**: Its contradiction emerges
 3. **Synthesis**: Higher unity includes both
 
-Example:
-- Being (thesis)
-- Nothing (antithesis)
-- Becoming (synthesis)
+**(B) Hegel's actual structure:**
+1. **Abstract / immediate**: Thought in its undeveloped, one-sided form
+2. **Negative / mediated**: Self-contradiction within that form
+3. **Concrete**: Richer unity that preserves both while transcending them (*Aufhebung*)
 
-This isn't just logic. It's how reality moves. Every conflict births higher unity. War serves peace. Evil serves good. Philosophy justifies what is.
+Example (works for either reading):
+- Being — Nothing — Becoming
+
+This isn't just logic. For Hegel it's how Spirit (*Geist*) moves. Every conflict births higher unity. War serves peace. Evil serves good. Philosophy justifies what is. [Note: this last line is a **Hegel reading**, not an uncontroversial fact — Kierkegaard, Marx, Popper all dissented.]
 
 ## Phenomenology
 

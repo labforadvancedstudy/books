@@ -133,10 +133,19 @@ We invent sophisticated techniques, prove their superiority on small problems, t
 
 **The Scaling Laws:**
 ```
-Performance = k × (Compute^a) × (Data^b) × (Parameters^c)
+Loss ≈ L∞ + A · N^(-α) + B · D^(-β)      [form, not prediction]
+(N = parameters, D = training tokens)
 ```
 
-The exponents (a, b, c) are remarkably consistent across domains. There's a deep regularity to how intelligence scales. We're not engineering intelligence so much as mining it from the universe of computation.
+> **[Correction 2026-04 — Scaling laws updated and caveated]** Earlier text used a multiplicative-gain form (`Performance = k · Compute^a · Data^b · Parameters^c`) which is **not** how the original scaling papers state the result. The actual finding is about *loss*, not "performance," and it has been **revised twice** since first publication:
+>
+> - **Kaplan et al. 2020** (OpenAI, [arXiv:2001.08361](https://arxiv.org/abs/2001.08361)): under-trained big models; implied ~1.7 tokens per parameter as compute-optimal.
+> - **Hoffmann et al. 2022 (Chinchilla, DeepMind, [arXiv:2203.15556](https://arxiv.org/abs/2203.15556))**: re-derived with proper isoFLOP sweeps — **~20 tokens per parameter** is compute-optimal. Kaplan's models were **undertrained by ~10×**. This is the current textbook result.
+> - **Schaeffer, Miranda & Koyejo 2023** ("Are Emergent Abilities of Large Language Models a Mirage?", NeurIPS 2023, [arXiv:2304.15004](https://arxiv.org/abs/2304.15004)): many reported "emergent" capability jumps are **metric artifacts** — use a continuous metric and the smooth scaling curve returns.
+>
+> Bottom line: exponents are **not** universal constants across domains; they shift with architecture, data mixture, and — crucially — the chosen evaluation metric. Evidence Tier: [Textbook for Chinchilla / Schaeffer; Cross-disciplinary for the "intelligence scales smoothly" interpretation].
+
+The exponents are **approximately** consistent within a regime (dense transformer, pretraining loss, fixed data distribution). Cross-regime, they drift. The "deep regularity" is narrower than it first looked — still striking, but no longer "intelligence has equations."
 
 ## The Real Mystery Is...
 

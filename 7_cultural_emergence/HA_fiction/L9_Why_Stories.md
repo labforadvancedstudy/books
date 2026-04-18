@@ -1,3 +1,4 @@
+<!-- [Phase 1G flag 2026-04] L9 template pattern detected ("universe questioning itself"). See 0_meta/L9_TEMPLATE_WARNING.md. Phase 2 will rewrite to domain-specific open-problem form. -->
 # Level 9: Why Stories At All? - The Ultimate Question
 
 > "In the beginning was the Word, and the Word was with God, and the Word was God." - John 1:1

@@ -114,7 +114,9 @@ Bath time is fluid dynamics lab:
 - Goes down the drain in a swirl
 - Floats some toys, sinks others
 
-That drain swirl? It's the Coriolis effect. The floating vs sinking? Density and buoyancy. The waves? Energy propagation. All discovered by age 5, in a bathtub, with a rubber duck.
+That drain swirl? It's mostly the **initial conditions of the water** (residual motion, tub asymmetry, drain geometry) — *not* the Coriolis effect. Coriolis acceleration at human-bathtub scales is about 10⁻⁷ m/s², smaller than any disturbance you or the tub introduce. A bathtub's Rossby number is ~10⁴, meaning Coriolis is overwhelmed by inertia by four orders of magnitude. The floating vs sinking? Density and buoyancy. The waves? Energy propagation. All discovered by age 5, in a bathtub, with a rubber duck.
+
+> **[Correction 2026-04 — Pop-science myth]** Previous text stated "that drain swirl is the Coriolis effect." This is a well-known misconception. Coriolis *does* influence hurricane-scale flows (~1000 km, Rossby ≪ 1), but at bathtub scale the effect is dominated by tub asymmetry and initial water motion by ~10⁴×. Demonstrated by Shapiro 1962 (*Nature* 196, 1080) and Trefethen et al. 1965 (*Nature* 207, 1084) — they showed Coriolis direction drain swirl *only* when the tub is stilled for hours and residual currents damped out. See also NOAA's own "Coriolis misconception" FAQ. Evidence Tier: [Textbook].
 
 ## The First Great Abstraction
 

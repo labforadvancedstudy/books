@@ -114,9 +114,16 @@ This is why processors are measured in GHz (billions of cycles per second). Each
 
 ## The Engineering Miracle
 
-A modern CPU has ~10 billion transistors in a space smaller than a postage stamp. Each transistor is about 5 nanometers across. That's 20 silicon atoms wide.
+A modern CPU has ~10–50 billion transistors in a space smaller than a postage stamp (Apple M3 Max: 92B; NVIDIA H100: 80B; typical desktop CPU die: ~10–30B). Foundries call their process nodes "5nm," "3nm," "2nm," but **those numbers are marketing names, not physical dimensions.**
 
-We're not just controlling electrons - we're controlling them at the edge of atomic reality. Any smaller and quantum effects take over. We're pushing physics to its limits.
+> **[Correction 2026-04 — "5nm = 20 silicon atoms" is wrong twice]** Previous text said: *"Each transistor is about 5 nanometers across. That's 20 silicon atoms wide."* Two errors:
+>
+> 1. **"5nm" is a node name, not a feature size.** The ITRS/IRDS roadmaps decoupled "node name" from actual transistor dimensions ~2011. For TSMC N5 ("5nm"): **contacted gate pitch ≈ 48–51 nm, metal pitch ≈ 28–30 nm, fin width ≈ 5–7 nm, physical gate length ≈ 18–22 nm** (WikiChip N5 entry; TSMC 2019 IEDM disclosures). No feature on a "5nm" chip is actually 5 nm across.
+> 2. **Even at a genuine 5 nm, silicon is not "20 atoms wide."** Silicon's lattice constant is **a = 0.5431 nm**, so 5 nm ≈ **9 lattice periods**, not 20 atoms. Each lattice cube contains 8 atoms, but that's volumetric, not linear.
+>
+> Honest statement: the narrowest features on a "5nm" process are around **5–7 nm fin widths** (~10 lattice periods of Si), and **physical gate lengths are ~20 nm** (~37 lattice periods). Still extraordinary — but the picture is "tens of atoms," not "20 silicon atoms wide for everything." Evidence Tier: [Textbook]. Refs: IRDS 2022, TSMC 2019 IEDM paper (DOI:10.1109/IEDM19573.2019.8993578), WikiChip.
+
+Even with the corrections, we're controlling electrons at the edge of atomic reality. Fin widths of ~10 silicon lattice periods. Gate oxides a handful of atomic layers thick. Quantum tunneling is no longer hypothetical; it's a **leakage current line item** in every chip's power budget. We're not at the physics limit yet, but we can see it.
 
 ## Binary Made Physical
 
