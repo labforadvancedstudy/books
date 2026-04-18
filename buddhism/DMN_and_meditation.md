@@ -118,31 +118,65 @@ class OpenMonitoringMarkers:
 
 ### 구조적 변화 (Morphometry)
 
-**회백질 증가**:
+**회백질 변화 — 실제 연구 결과**:
+
+> **[⚠ Correction 2026-04 — Fabricated numbers replaced with actual values]**
+> 이전 판본에 "해마 +15%, 전전두피질 +0.5mm, 섬엽 +12%, 편도체 −5% in 8 weeks"라는 수치가 있었음. **원논문(Lazar 2005, Hölzel 2011)에는 이런 백분율/mm 수치가 없음.** 원논문들은 VBM cluster statistics (t, F, p value)만 보고하였고, %로 변환된 수치는 본 문서 저자가 만든 것. 허위 수치로 판단하여 실제 논문 수치로 교체.
+
 ```python
-# Based on Lazar et al. (2005), Holzel et al. (2011)
-structural_changes = {
-    'hippocampus': {
-        'volume_increase': '15%',
-        'timeline': '8_weeks',
-        'function': 'stress_resilience'
+# Actual reported findings from original papers:
+# Lazar, S. W., et al. (2005). "Meditation experience is associated with
+#   increased cortical thickness." NeuroReport, 16(17), 1893-1897.
+#   DOI: 10.1097/01.wnr.0000186598.66243.19
+#   PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC1361002/
+#
+# Hölzel, B. K., et al. (2011). "Mindfulness practice leads to increases
+#   in regional brain gray matter density." Psychiatry Research:
+#   Neuroimaging, 191(1), 36-43.
+#   DOI: 10.1016/j.pscychresns.2010.08.006
+#   PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC3004979/
+
+structural_changes_actual = {
+    'left_hippocampus_Holzel_2011': {
+        'finding': 'increased gray matter concentration (VBM)',
+        'statistics': 't(15)=6.89, cluster_k=30, F(1,29)=4.92, p=.035',
+        'percentage_change': 'NOT REPORTED in paper',
+        'timeline': '8_weeks_MBSR',
+        'n': 16_meditators_vs_17_controls,
     },
-    'prefrontal_cortex': {
-        'thickness_increase': '0.5mm',
-        'timeline': '3_months',
-        'function': 'executive_control'
+    'posterior_cingulate_cortex_Holzel_2011': {
+        'finding': 'increased GM concentration',
+        'statistics': 'F(1,29)=50.1, p<.001',
     },
-    'insula': {
-        'gray_matter_density': '+12%',
-        'timeline': '6_months',
-        'function': 'interoception'
+    'cerebellum_Holzel_2011': {
+        'finding': 'increased GM concentration',
+        'statistics': 'F(1,29)=9.8, p=.004',
     },
-    'amygdala': {
-        'volume_decrease': '5%',
-        'timeline': '8_weeks',
-        'function': 'reduced_fear_response'
-    }
+    'temporo_parietal_junction_Holzel_2011': {
+        'finding': 'increased GM concentration',
+        'statistics': 'F(1,29)=11.5, p=.002',
+    },
+    'insula_and_PFC_Lazar_2005': {
+        'finding': 'increased cortical thickness in long-term meditators',
+        'statistics': 'right_anterior_insula_p=1.2e-5, PFC_BA9/10_p=1.8e-5',
+        'absolute_mm_change': 'NOT REPORTED — paper only shows cluster stats',
+        'n': 20_meditators_vs_15_controls,
+    },
+    'amygdala_Holzel_2010_SCAN': {  # NOT 2011 paper — different study
+        'finding': 'decrease correlated with perceived stress reduction',
+        'source': 'Hölzel et al. 2010, SCAN 5(1):11-17 (NOT the 2011 paper)',
+    },
+    # [⚠ Replication concern — Evidence Tier: Cross-disciplinary]
+    'replication_attempt_Kral_2022': {
+        'finding': 'two RCTs FAILED to replicate MBSR structural changes',
+        'source': 'Kral et al. 2022, Sci Adv, doi:10.1126/sciadv.abk3316',
+        'implication': 'Original effects may be overstated or non-robust',
+    },
 }
+# Evidence Tier for this section: [Cross-disciplinary — original effects
+# reported with small samples (n~16-20); recent RCT replication (Kral 2022)
+# failed to confirm. Reader should not treat percentage-of-change claims
+# as established neuroscience.]
 ```
 
 ### 기능적 변화
