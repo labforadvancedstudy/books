@@ -53,6 +53,32 @@
 *Beyond Earth: The next emergence*
 - Space Engineering → Solar System → Dyson Spheres → Interstellar Civilization
 
+## 🆕 Phase 2 additions (scaffolding — 2026-04-18)
+
+The original eight-section tree had gaps: Earth itself, material civilization, medicine/law/education, lived human life, and classical engineering disciplines all lacked homes. Phase 2 opened five new top-level sections to make the gaps visible and fillable.
+
+### [9. Earth Systems](./9_earth_systems/) *(Phase 2A — scaffolding)*
+*The planet as a layered dynamic system*
+- Geology → Climate → Ocean → Geography → Hydrology
+
+### [10. Material World](./10_material_world/) *(Phase 2A — scaffolding)*
+*How civilization turns atoms into stuff at scale*
+- Materials → Manufacturing → Agriculture → Energy → Transport Systems
+
+### [11. Applied Sciences](./11_applied_sciences/) *(Phase 2A — scaffolding)*
+*Institutionalized knowledge serving human welfare*
+- Medicine → Public Health → Law → Education
+
+### [12. Human Life](./12_human_life/) *(Phase 2A — scaffolding)*
+*The embodied human from cradle to grave*
+- Body → Development → Gender & Sexuality → Mortality
+
+### [13. Engineering](./13_engineering/) *(Phase 2A — scaffolding)*
+*The design disciplines that build reliable systems*
+- Mechanical → Electrical → Civil & Architecture → Aerospace → Chemical
+
+See `0_meta/PHASE_2_PLAN.md` for the full restructure rationale and the 27-domain gap inventory.
+
 ### [Essays](./essays/)
 *Standalone explorations*
 - Sperm Whale Oral History

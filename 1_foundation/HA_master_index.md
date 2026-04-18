@@ -2,6 +2,10 @@
 
 *A comprehensive exploration of the universe's organizing principle*
 
+<!-- [Phase 2A note, 2026-04-18] Tree expanded from 8 to 13 top-level sections.
+     The new sections (9-13) are scaffolding at present — index files only, HA_* content to follow in Phase 2B.
+     See ../0_meta/PHASE_2_PLAN.md for rationale. -->
+
 ## Overview
 
 Hierarchical Abstraction (HA) is the universal pattern of organization found at every scale of reality. This collection explores HA through three complementary lenses:
@@ -9,6 +13,25 @@ Hierarchical Abstraction (HA) is the universal pattern of organization found at 
 1. **[HA_physics](./HA_physics/)** - How matter and energy organize hierarchically
 2. **[HA_life](./HA_life/)** - How biological systems embody hierarchical principles
 3. **[HA_HA](./HA_HA/)** - How hierarchical abstraction understands itself
+
+## Top-level sections (13 as of Phase 2A)
+
+| # | Section | Status | Theme |
+|---|---|---|---|
+| 0 | `0_meta/` | Mature | Meta-framework, evidence tiers, phase plans |
+| 1 | `1_foundation/` | Mature | HA itself, core patterns |
+| 2 | `2_physical_emergence/` | Mature | Physics, chemistry, astronomy, math |
+| 3 | `3_biological_emergence/` | Mature | Life, evolution, consciousness |
+| 4 | `4_social_emergence/` | Partial | Society, language, psychology, religion |
+| 5 | `5_civilization_emergence/` | Mature | Philosophy, civilization, politics, economy |
+| 6 | `6_technological_emergence/` | Mature | Tech, computers, internet, AI |
+| 7 | `7_cultural_emergence/` | Partial | Art, music, writing, cinema, games |
+| 8 | `8_cosmic_futures/` | Partial | Space engineering, Dyson, interstellar |
+| 9 | `9_earth_systems/` | **Phase 2A scaffolding** | The planet as system |
+| 10 | `10_material_world/` | **Phase 2A scaffolding** | Materials, manufacturing, agriculture, energy, transport |
+| 11 | `11_applied_sciences/` | **Phase 2A scaffolding** | Medicine, public health, law, education |
+| 12 | `12_human_life/` | **Phase 2A scaffolding** | Body, development, gender & sexuality, mortality |
+| 13 | `13_engineering/` | **Phase 2A scaffolding** | Mechanical, electrical, civil, aerospace, chemical |
 
 ## Reading Paths
 
