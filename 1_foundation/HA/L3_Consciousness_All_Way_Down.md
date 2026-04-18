@@ -1,9 +1,16 @@
 # Level 3: Consciousness All the Way Down
 *13.8 billion years of the universe experiencing itself*
+<!-- Evidence Tier: Speculative — This chapter assumes panpsychism as its frame. -->
 
 > "What is it like to be a bat?" - Thomas Nagel
 >
 > "What is it like to be 13.8 billion years old?" - You, right now
+
+> **[Correction 2026-04 — Whole-chapter framing labeled]** This chapter assumes **panpsychism** (consciousness is fundamental and pervasive, including in particles, rocks, plants, and simple machines) as if it were the default or mainstream view. It is not. Panpsychism is a **minority position in philosophy of mind** (defended by Goff 2019 *Galileo's Error*; Chalmers 2015 "Panpsychism and Panprotopsychism"; Strawson 2006). The mainstream positions in cognitive science, neuroscience, and analytic philosophy remain **functionalism, higher-order theory, and global workspace theory** — all of which treat consciousness as something that emerges in specific organizational regimes, not as a universal property of matter.
+>
+> The chapter's statements such as "consciousness is fundamental," "matter has BEEN experience for 13.8 billion years," "rocks have minimal moral status," "your car 'knows' when it needs oil" should all be read under this header: **[Speculative — Panpsychist framing, not consensus science]**. The "Hard Problem" (Chalmers 1995) is not solved by declaring matter conscious; it is *relabeled*. Combination problem (how micro-experience combines into unified human experience) remains open.
+>
+> Evidence Tier: [Speculative — philosophy of mind].
 
 ## The Timeline That Changes Everything
 
