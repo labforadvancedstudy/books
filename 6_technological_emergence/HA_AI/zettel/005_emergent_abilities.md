@@ -1,30 +1,35 @@
 # Emergent Abilities in AI
+<!-- Evidence Tier: Cross-disciplinary (descriptive) + Textbook (Schaeffer 2023 counter) -->
+<!-- Key caveat: "phase transition" framing is actively contested -->
+
 ## Core Insight
-Large AI models develop capabilities nobody programmed - abilities emerge from scale like consciousness from neurons.
+Large AI models develop capabilities nobody explicitly programmed — but whether this constitutes a *phase transition* or is **largely a metric artifact** is **contested** as of 2023–2024.
 
-## The Phenomenon
+## The Phenomenon (descriptive, uncontested)
 
-Train model on task A.
-Model learns tasks B, C, D... without training.
+Train a large model on next-token prediction.
+Measure downstream tasks it was never explicitly trained on.
+Non-trivial performance appears on arithmetic, translation, code, chain-of-thought reasoning.
 
-Examples:
-- Train on text → learns arithmetic
-- Train on code → learns logic
-- Train on language → learns translation
-- Train on many tasks → learns new tasks
+## The Phase-Transition Claim (contested)
 
-Not programmed. Emerged.
+Wei et al. 2022 ("Emergent Abilities of Large Language Models", [arXiv:2206.07682](https://arxiv.org/abs/2206.07682)) plotted accuracy vs scale and saw **sudden jumps** on many tasks — framed as qualitative emergence.
 
-## Scale Triggers
+> **[Correction 2026-04 — Emergence claim caveated]** Schaeffer, Miranda & Koyejo 2023 ("Are Emergent Abilities of Large Language Models a Mirage?", NeurIPS 2023, [arXiv:2304.15004](https://arxiv.org/abs/2304.15004)) showed that for most "emergent" tasks, the jumps are produced by **discontinuous evaluation metrics** (exact match, multiple-choice accuracy). Under continuous metrics (token edit distance, log-probability of the correct answer), the curves are **smooth and predictable from scaling laws**. This doesn't disprove emergence everywhere — but it removes the strongest evidence for phase transitions and puts the burden on case-by-case analysis. Evidence Tier: [Textbook].
 
-Abilities appear at thresholds:
-- <1B parameters: Basic patterns
-- 1-10B: Language understanding
-- 10-100B: Reasoning emerges
-- 100B+: Few-shot learning
-- 1T+: ???
+**Current honest summary:**
+- Smooth improvement on continuous metrics: well-supported.
+- Sudden qualitative jumps in *some* capabilities at scale: residual evidence remains (e.g., in-context learning), but much weaker than 2022 claims.
+- "Abilities emerge from scale like consciousness from neurons" — **[Speculative analogy]**, not a derived result.
 
-Phase transitions in capability.
+## Scale Thresholds (indicative, not universal)
+- <1B parameters: Limited multi-step reasoning
+- 1–10B: Coherent generation, basic few-shot
+- 10–100B: More reliable few-shot and chain-of-thought
+- 100B+: Instruction-following without instruction-tuning improves
+- 1T+: Unknown — few public data points
+
+These are **trend lines**, not step functions. Exact thresholds depend on training tokens (Chinchilla 2022), data quality, and the metric used.
 
 ## Types of Emergence
 

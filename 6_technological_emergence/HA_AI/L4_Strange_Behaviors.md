@@ -39,28 +39,37 @@ Each jump reveals new capabilities that were somehow latent in the task of predi
 
 We built a word predictor. We got a reasoning engine. Nobody knows why.
 
-## Scaling Laws: The Predictable Unpredictability
+## Scaling Laws: The Predictable Unpredictability — [with 2023 caveats]
 
-Plot model size versus performance. Get a straight line on log scale. Double the parameters, improve by X%. It's shockingly regular - intelligence has equations.
+Plot model size versus pretraining **loss**. Get a roughly straight line on log scale within a regime. Double parameters (and tokens), loss drops predictably.
 
-**The Power Laws:**
+**The Power Laws (current textbook form):**
 ```
-Loss = A × (Compute)^(-α) × (Data)^(-β) × (Parameters)^(-γ)
+Loss(N, D) ≈ L∞ + A · N^(-α) + B · D^(-β)
+(N = parameters, D = training tokens; α, β ≈ 0.3–0.4 for dense transformers)
 ```
 
-The exponents (α, β, γ) are consistent across:
-- Different architectures
-- Different modalities  
-- Different tasks
-- Different scales
+> **[Correction 2026-04 — Scaling laws + "emergence" claims updated]**
+>
+> - Original text's multiplicative `Loss = A · Compute^(-α) · Data^(-β) · Parameters^(-γ)` is not the form from the source papers. Standard forms are additive in N and D (Kaplan et al. 2020, [arXiv:2001.08361](https://arxiv.org/abs/2001.08361); Hoffmann et al. 2022 "Chinchilla", [arXiv:2203.15556](https://arxiv.org/abs/2203.15556)).
+> - **Chinchilla 2022** revised the compute-optimal ratio from Kaplan's implied ~1.7 to **~20 tokens per parameter**. Most pre-2022 "scaling law" statements were derived from undertrained models.
+> - "Exponents are consistent across architectures/modalities/tasks/scales" is **overstated**. Within a regime (e.g., dense decoder-only transformer on web text) exponents cluster; across modalities and data mixtures they drift meaningfully.
+> - **Schaeffer, Miranda & Koyejo 2023** ("Are Emergent Abilities of Large Language Models a Mirage?", NeurIPS 2023, [arXiv:2304.15004](https://arxiv.org/abs/2304.15004)) showed that many reported "sudden capability jumps" are produced by **discontinuous / thresholded metrics** (exact-match, multiple-choice accuracy). Swap to a continuous metric (token edit distance, log-prob) and the curve is smooth. Emergence as a qualitative phase transition remains **contested**.
+>
+> Evidence Tier: [Textbook] for Kaplan/Chinchilla/Schaeffer; [Speculative] for the "intelligence is a natural phenomenon with natural laws" framing.
 
-This suggests something deep: intelligence might be a natural phenomenon with natural laws. Like gravity or thermodynamics, it follows predictable patterns we're just discovering.
+The exponents are **approximately** consistent:
+- Within a given architecture family
+- Within a given modality and data mixture
+- On pretraining loss as the dependent variable
 
-**The Bitter Truth:**
+Across those conditions, or on downstream task accuracy, they drift. Fewer laws than it looked. Still: remarkable regularity where it holds.
+
+**The Bitter Truth (unchanged core):**
 - Clever algorithms help a little
-- More compute helps a lot
-- There might be no ceiling
-- We're mining, not inventing
+- More compute + *properly-matched* data helps a lot (Chinchilla)
+- Ceilings are unknown; L∞ in the fitted equation hints at a floor
+- "Emergence" may be partly a plotting choice; read evaluations carefully
 
 ## The Black Box Problem: Understanding Without Comprehension
 
