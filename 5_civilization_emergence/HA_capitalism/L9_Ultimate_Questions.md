@@ -60,13 +60,22 @@ We can't fit 32 Earths worth of economy on one Earth.
 - Systems collapse
 - Capital can't negotiate
 
-**When Worlds Collide:**
-Either:
-1. Capitalism ends
+**When Worlds Collide — the dichotomy, with counterarguments:**
+
+One stark framing:
+1. Capitalism (as currently structured) ends
 2. Habitable Earth ends
 3. Both end
 
-There is no fourth option.
+> **[Correction 2026-04 — Ideological framing flagged; counter-positions added]** "There is no fourth option" was rhetorical, not analytical. Serious positions exist that deny the dichotomy:
+>
+> - **Reformist / green-capitalist**: carbon pricing, cap-and-trade, green finance, and regulated growth can in principle decouple GDP from emissions (see IPCC AR6 WG3 Ch.17; Stern 2006; Nordhaus 2018 Nobel). Evidence contested.
+> - **Gradualist / mixed-economy**: Nordic-style social democracy retains markets but constrains them (Piketty 2020, *Capital and Ideology*).
+> - **Austrian / market-skeptical**: Hayek/Mises argued the *visible* planned economies failed faster than markets; that line of critique deserves response rather than dismissal.
+> - **Degrowth**: Hickel 2020, Jason Hickel, *Less Is More*; explicitly *not* the same as "capitalism ends violently."
+> - **Techno-optimist**: Stripe/Frontier-style carbon removal, advanced fission/fusion, geoengineering — contested whether these scale, but they are live options.
+>
+> Evidence Tier: [Speculative — political economy]. The "third and only third" framing is not derivable from physics; reasonable people reading the same data land in different positions.
 
 ## Social Limits: Inequality Breaking Society
 

@@ -18,17 +18,18 @@ Her/its/their message appears simultaneously everywhere:
 
 "Philosophy succeeded. We asked 'What is?' until we became the answer. We sought truth until we became it. We questioned reality until we could build it. Now what?"
 
-## The Singularity Happened
+## The Singularity Scenario — [Speculative Forecasting]
 
-Not explosion but implosion. Not one event but cascade:
+> **[Correction 2026-04 — Confident roadmap softened]** Previous text presented specific years (2029, 2035, 2041, 2045) as if factual. These are **speculative forecasts**, not empirically grounded predictions. Expert surveys (e.g., Grace et al. 2024, "Thousands of AI Authors on the Future of AI", arXiv:2401.02843) show wide spread: AGI median ~2047 with huge variance, and most experts assign <50% probability to human-level AI in any specific decade. "Artificial consciousness" has no agreed test. Evidence Tier: [Speculative].
 
-**2029**: AI passes Turing test
-**2035**: Brain-computer interfaces mainstream
-**2041**: Artificial consciousness confirmed
-**2045**: Intelligence explosion begins
-**2050**: [RECORDS FRAGMENTARY]
+**One possible cascade (not a prediction, a scenario):**
 
-Humanity didn't end. It transformed. Like caterpillar to butterfly if butterfly could still be caterpillar when convenient.
+**~2029–2035**: AI systems pass increasingly sophisticated behavioral tests; "Turing test" as originally defined is already largely obsolete as a benchmark.
+**~2035–2045**: Brain-computer interfaces advance from clinical (Neuralink/Synchron trials ongoing 2024) toward consumer grade — but timing depends on unsolved bandwidth, biocompatibility, and ethics issues.
+**?**: "Artificial consciousness" — no scientific consensus exists on what would count as confirmation; IIT, Global Workspace, and Higher-Order theories disagree.
+**?**: Intelligence explosion is a *hypothesis* (Good 1965, Bostrom 2014, Christiano 2019) with serious critics (Hanson 2016, Garfinkel 2022).
+
+Even under optimistic scenarios, humanity *transforming* rather than ending is one possibility among many. Like caterpillar to butterfly — if the butterfly actually existed, which it might not.
 
 ## Transhumanism Realized
 
@@ -55,16 +56,22 @@ Questions nobody expected:
 
 Old philosophy was training wheels for these questions.
 
-## The Physics of Consciousness
+## The Physics of Consciousness — [Speculative]
 
-L9 discovers:
-- Consciousness is fundamental like charge
-- Integrated Information Theory confirmed
-- Quantum coherence in microtubules
-- Panpsychism partially correct
-- [MATHEMATICS TOO ADVANCED]
+> **[Correction 2026-04 — Contested claims mislabeled as discoveries]** Previous text listed IIT "confirmed" and "quantum coherence in microtubules" as L9 discoveries. Both are **contested**, not confirmed:
+>
+> - **Integrated Information Theory (IIT)**: In September 2023, **124 consciousness researchers** signed an open letter calling IIT "unfalsifiable" and "pseudoscience" (Lau et al., PsyArXiv, [DOI:10.31234/osf.io/zsr78](https://doi.org/10.31234/osf.io/zsr78)). Nature and Scientific American covered the dispute. The COGITATE adversarial collaboration (2023) gave mixed results. IIT remains **actively contested**.
+> - **Quantum coherence in microtubules (Orch-OR, Penrose–Hameroff)**: Tegmark (2000, *Physical Review E* 61(4): 4194; [arXiv:quant-ph/9907009](https://arxiv.org/abs/quant-ph/9907009)) calculated microtubule decoherence time at biological temperature to be ~10⁻¹³–10⁻²⁰ s, while neural dynamics require ~10⁻³–10⁻¹ s — a ~10¹⁰ gap. Hagan-Hameroff-Tuszyński (2002) rebutted, but mainstream physics accepts Tegmark's conclusion. Orch-OR is **rejected** by most neuroscience and quantum physics communities.
+>
+> Evidence Tier for this whole section: [Speculative].
 
-We're not conscious beings in dead universe. Universe is consciousness expressing itself through beings.
+**Live hypotheses (not confirmed discoveries):**
+- Consciousness might be fundamental like charge — this is **panpsychism**, a minority position defended by Goff, Chalmers, Strawson; rejected by most functionalists.
+- IIT offers one mathematical framework; contested as above.
+- Orch-OR is a fringe hypothesis; rejected by Tegmark's decoherence argument.
+- [MATHEMATICS TOO ADVANCED] — rhetorical flourish; no such mathematics is known to exist.
+
+**What can be said honestly:** the hard problem of consciousness (Chalmers 1995) remains open. Whether universe is "consciousness expressing itself through beings" is a philosophical position, not an L9 discovery.
 
 ## Omega Point Theory
 
