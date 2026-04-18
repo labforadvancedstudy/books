@@ -1,0 +1,91 @@
+# L4 — Urban Planning and Sustainable Cities
+
+<!-- Evidence Tier: Textbook -->
+
+L3 built the hard infrastructure of cities — roads, water, power, sewers, rail. L4 turns to the **design of urban form itself**: how land is used, how density is distributed, how people move, how neighborhoods connect, how cities absorb growth or decline, and how they achieve (or fail to achieve) livability, affordability, and sustainability. More than half of humanity now lives in cities — projected to reach 68% by 2050 — and cities account for roughly three-quarters of global CO₂ emissions and most of the world's economic output. How we plan urban environments is therefore a civilization-scale question, shaping climate futures, social mobility, public health, and political stability.
+
+## The Planning Tradition and Its Limits
+
+Modern urban planning emerged in the late 19th century as a response to industrial city pathology: cholera from contaminated water, smoke from coal burning, tenement overcrowding, and chaotic street networks that throttled commerce. Early responses included **sanitary reform** (London sewers, 1858–75), **grand plans** (Haussmann's Paris, 1850s–70s; Daniel Burnham's Chicago, 1909), **garden cities** (Ebenezer Howard's Letchworth and Welwyn), and **zoning** (New York, 1916). The **1920s–60s modernist planning** era — embodied by Le Corbusier's towers-in-a-park and Robert Moses' urban renewal — produced projects that looked rational on paper but destroyed urban fabric: superblock housing that became crime-ridden, freeways that severed neighborhoods, clearance of "slums" that were in fact functional communities.
+
+**Jane Jacobs' *Death and Life of Great American Cities* (1961)** is the foundational critique. Jacobs argued that what makes cities work is fine-grained mixed use, short blocks, buildings of varied age, sufficient density, and active street life — not the grand geometries that planners had imposed. Her arguments ran against the consensus but proved largely correct; nearly every contemporary planning idea of lasting value traces back to her observations. The failures of high-rise public housing (Pruitt-Igoe demolished 1972, Cabrini-Green, Aylesbury Estate), of urban freeways (Embarcadero, Boston Central Artery), and of top-down master plans have taught the field humility. Contemporary planning is more incremental, more participatory, and more aware of unintended consequences — though not immune to grand gestures.
+
+## Zoning, Land Use, and Housing Supply
+
+The most consequential planning tool in the United States and much of the world is **zoning** — the legal regulation of what can be built on each parcel of land. Euclidean zoning (named after the 1926 *Village of Euclid v. Ambler Realty* ruling) separates uses (residential, commercial, industrial) and regulates density, setbacks, height, and parking. Over the 20th century, zoning in most US metropolitan areas became increasingly restrictive: single-family-only zones cover roughly three-quarters of residential land in many cities; minimum lot sizes, parking mandates, and floor-area ratios further constrain what can be built.
+
+A substantial body of economic research now documents the **cost of restrictive zoning**. Glaeser and Gyourko, Ganong and Shoag, and others have shown that zoning-driven housing supply restrictions in high-productivity metropolitan areas (Bay Area, New York, Boston, Seattle, Los Angeles) raise prices, reduce interregional migration, lower aggregate economic output, and increase inequality. Housing affordability crises have become political priorities across the US, UK, Canada, Australia, Ireland, and the Netherlands, with median house prices exceeding 5–10x median incomes in many cities. **YIMBY** ("Yes in My Backyard") movements advocate for zoning liberalization; successful reforms include Minneapolis and Oregon eliminating single-family-only zoning (2019), California's SB 9 and ADU liberalization, and New Zealand's Medium Density Residential Standards (2021). Evidence on effects is accumulating: reforms generally increase housing supply and moderate price growth, though effects are slow and partial because zoning is just one of many constraints (financing, land, construction costs, NIMBY litigation).
+
+**Inclusionary zoning**, **affordable housing mandates**, and **public housing** address affordability through different levers. Vienna's 60% public/subsidized housing rate keeps rents low across the metro area; Singapore's HDB housing covers 80% of the population. Anglo-American cities generally produce less public housing and rely more on means-tested vouchers (Section 8 in the US) and inclusionary zoning, with mixed results on affordability.
+
+## Density, Form, and Transportation
+
+The physical form of cities — density, mix, connectivity — shapes almost everything else. Dense, mixed-use, walkable neighborhoods reduce per-capita energy use, support transit, enable small-scale retail, and build social capital. Sprawling, auto-dependent patterns maximize car dependence, infrastructure cost per capita, and embodied carbon.
+
+**Density** can be measured as residents or jobs per square kilometer; global variation is enormous. Manhattan has ~28,000 people/km²; Paris 20,000; Tokyo core 15,000; typical suburban US subdivisions under 2,000. Dhaka, Mumbai, and Lagos exceed 40,000 in dense areas. Density enables transit (a rail line needs roughly 10,000+ people within walking distance per mile to justify itself), walkability, and agglomeration economies. But density alone is insufficient: high-rise suburbs in East Asia can remain auto-dependent, while medium-density Barcelona or Amsterdam supports famously walkable environments.
+
+**Transit-oriented development (TOD)** concentrates density around rail stations, reinforcing the mutual dependence of transit and urban form. Tokyo's private railways own surrounding real estate and finance rail with land value capture; Hong Kong's MTR "Rail + Property" model earns most revenue from TOD rather than fares. Singapore, Copenhagen's Finger Plan, and Curitiba's BRT corridors show that transit-land use coordination across decades produces measurably better outcomes than either built alone.
+
+**Complete streets**, **pedestrian priority**, and **cycling infrastructure** have transformed cities that invested seriously. Copenhagen's 50% cycling modal share, Amsterdam's bike network, Paris's post-2020 protected bike lanes, and Oslo's near-elimination of pedestrian deaths through Vision Zero demonstrate that street redesign — not just transit — reshapes behavior. Research from New York (Times Square pedestrianization), Paris (rue de Rivoli), and elsewhere finds that removing through-traffic reliably reduces crashes, increases retail activity, and does not cause predicted traffic chaos (the "disappearing traffic" phenomenon).
+
+## The 15-Minute City and Neighborhood Planning
+
+Carlos Moreno's **15-minute city** concept — every daily need (work, school, shopping, health, recreation) within 15 minutes of home by foot or bike — has become a global planning benchmark, championed by Paris Mayor Anne Hidalgo and adopted in varying forms across European, Latin American, and Asian cities. Research on proximity and accessibility supports the core claim that well-designed neighborhoods reduce car dependence, enhance public health through active transport, and increase social connectedness. Implementation requires zoning reform to permit small retail in residential zones, investment in schools and clinics, and traffic calming.
+
+The concept has also attracted conspiracy-theory pushback in English-speaking contexts, where some opponents frame it as a plot to restrict mobility. Actual implementations in Paris, Milan, Melbourne, and Portland involve no such restrictions — they add walkable destinations rather than forbidding travel. The controversy illustrates how urbanism intersects with culture-war politics.
+
+## Green Infrastructure and Climate Adaptation
+
+Cities face compounding climate stresses: extreme heat (urban heat islands can be 5–10°C hotter than surrounding areas), flooding (both riverine and pluvial), sea-level rise (coastal cities hold 40% of global population), drought, and air quality. **Green infrastructure** — parks, street trees, green roofs, bioswales, rain gardens, daylighted streams — addresses multiple stresses simultaneously while providing cobenefits (mental health, biodiversity, property values).
+
+**Urban heat island** mitigation combines tree canopy expansion (LA, Medellín, Singapore), cool roofs and pavements, reflective surfaces, and shading in public realms. Medellín's Green Corridors project lowered street temperatures by 2–3°C and is widely studied as a replicable model. Phoenix, Melbourne, and Seville appoint "chief heat officers" to coordinate response.
+
+**Stormwater management** increasingly emphasizes "sponge city" approaches. Copenhagen's Cloudburst Plan (after 2011 flooding caused $1B+ damages) combines traditional drainage with parks that flood temporarily. China's Sponge City program piloted in 30 cities aims for 80% of rainwater to be absorbed or reused; results have been mixed, with uneven implementation and continued flooding in some pilot cities. Low-lying cities like Ho Chi Minh, Jakarta, Dhaka, and Miami face structural challenges that no stormwater plan can fully solve — only relocation or massive infrastructure investment (Jakarta is building Nusantara as a replacement capital).
+
+**Coastal adaptation** options include seawalls and surge barriers (Thames Barrier, MOSE Venice, New Orleans post-Katrina), beach nourishment, wetland restoration (Netherlands' Room for the River, New York's Big U), and managed retreat. Each involves major costs and difficult tradeoffs between protecting property and ecological function.
+
+## Transportation Planning in Transition
+
+Transportation has become the largest emissions sector in many developed economies (28% in the US), and urban transport is the place where transition policies land. **Mode shift** — from private cars to transit, walking, and cycling — is central to both climate and livability goals. Congestion pricing (London 2003, Stockholm 2007, Singapore from 1975, NYC's long-delayed plan), low-emission zones (London ULEZ, Berlin, Milan), car-free days and streets (Paris, Bogotá's Ciclovía since 1974), and parking reform (minimum parking eliminations in Buffalo, Minneapolis, Oregon statewide) have demonstrably shifted behavior where implemented seriously.
+
+The **electric vehicle transition** reduces tailpipe emissions but does little for congestion, land consumption, road safety for pedestrians, or the embodied carbon of cars and roads. Cities focused on EVs alone will remain car-dependent. The **autonomous vehicle** promise (robotaxis reducing parking demand, freeing street space) has arrived more slowly than hyped; Waymo operates commercially in limited geographies but widespread AV deployment and its urban form consequences remain speculative.
+
+## Informal Urbanism and the Global South
+
+The textbook planning tradition was built on the problems of industrial cities in wealthy countries. More than one billion people now live in **informal settlements** — slums, favelas, chawls, barrios, gecekondus — produced by urbanization outpacing formal housing and infrastructure capacity. Lagos, Mumbai, Karachi, Kinshasa, Manila, São Paulo, and Dhaka contain vast informal areas, often lacking secure tenure, piped water, sewerage, reliable electricity, or paved streets.
+
+Contemporary planning approaches emphasize **in situ upgrading** rather than clearance: incremental tenure regularization, infrastructure extension, community-led improvement. Thailand's Baan Mankong program, Brazilian favela upgrading (Rio's Favela-Bairro), India's slum rehabilitation schemes, and South African in situ upgrading illustrate the approach. Evidence is mixed — gentrification, displacement, and continued informality challenge every program — but the alternative of mass clearance has been decisively discredited by decades of failed projects.
+
+**Rapid urbanization** in sub-Saharan Africa and South Asia poses the biggest planning challenge of the 21st century. Africa's urban population is projected to triple by 2050 to 1.3 billion. Most new residents will arrive before formal planning, infrastructure, and institutions can catch up. Kigali, Addis Ababa, and Dakar have attempted master-planned approaches with mixed results; Lagos and Kinshasa have grown largely outside planning authority.
+
+## Smart Cities and Data
+
+The "smart city" concept — instrumenting urban infrastructure with sensors and applying data analytics — has produced mixed results. Successes include transit real-time information (nearly universal now), traffic signal optimization, leak detection in water networks (saves 10–30% of non-revenue water), parking guidance, and air quality monitoring networks (PurpleAir, municipal networks). Failed or overhyped ventures include Google's Sidewalk Toronto (withdrawn 2020), Masdar City (Abu Dhabi, much scaled back), NEOM (Saudi Arabia, largely aspirational), and Songdo (South Korea, built but half-empty).
+
+**Privacy, equity, and governance** concerns have sharpened around urban data. Facial recognition cameras (London, many Chinese cities), algorithmic policing, automated enforcement, and digital infrastructure surveillance raise civil liberties questions. The EU GDPR, California CCPA, and Chinese PIPL regulate urban data to varying degrees. Community-driven smart city approaches — Barcelona's DECODE project, Taiwan's g0v movement — try to keep residents in control of their data.
+
+## Housing, Homelessness, and Right to the City
+
+Planning increasingly intersects with **housing justice** and the question of who cities are for. Gentrification — the displacement of lower-income residents as neighborhoods become more desirable — has become a politicized term; empirical research shows that gentrifying neighborhoods often retain their residents but become unaffordable to new low-income arrivals, with net negative effects on housing affordability metro-wide. **Homelessness** in wealthy cities (LA with ~75,000, NY with 100,000+, SF with 8,000+, London) has worsened over the past decade, driven primarily by housing costs. Solutions include Housing First programs (Finland has nearly eliminated chronic homelessness through sustained Housing First investment), expanded permanent supportive housing, and structural housing supply increases.
+
+The phrase **"right to the city"** — from Lefebvre (1968) — frames urban policy as a democratic question about who decides how cities grow, who benefits from urban investment, and whose voices count. Contemporary participatory budgeting (started Porto Alegre 1989, spread globally), community land trusts, and rent control debates are all expressions of this framing.
+
+## Sustainability Metrics and Certification
+
+A proliferation of frameworks measures urban sustainability. **LEED** for buildings and neighborhoods (ND), **BREEAM** for buildings, **LEED ND** and **BREEAM Communities** for neighborhoods, **CASBEE** in Japan, **C40 Cities Climate Leadership Group** for climate action, **Global Covenant of Mayors** for reporting, **ISO 37120** for city indicators, and **SDG 11** indicators all compete and overlap. Certification has driven some genuine innovation (high-performance buildings are now routine in new Class A construction) but also greenwashing and "sustainability theater." More consequential are binding regulations: building energy codes (California Title 24, EU EPBD), embodied carbon standards (Buy Clean California, California Carbon Emissions Accounting Act), and net-zero building mandates (Ireland, Denmark, New York State).
+
+## The Urban Rural Interface
+
+Cities don't exist in isolation. **Regional planning**, **metropolitan governance**, and **urban-rural linkages** shape outcomes. Many metros are fragmented across dozens of municipalities, complicating regional coordination of transit, housing, water, and climate action. Portland's Metro (directly elected regional government) and Minneapolis-Saint Paul's Met Council are US examples of strong regional planning; most US metros have weak regional authority. European regions generally have stronger formal structures. **Rural decline** in hinterlands creates political tensions that spill into urban-national politics (Brexit, French yellow vests, US red-blue divide).
+
+## Why This Level Matters
+
+Cities are where most human lives unfold and where nearly every large problem — climate, inequality, public health, democracy — must be solved in practice. Urban planning decisions lock in for decades or centuries: street grids, parcel boundaries, transit lines, and building stocks turn over slowly. What is built today constrains what can be done tomorrow. Decarbonization, adaptation, housing affordability, public health, and social mobility all depend on planning decisions at the neighborhood and metropolitan scale.
+
+The level also matters because it exposes the limits of pure engineering thinking. Infrastructure (L3) gets you pipes and roads; planning (L4) has to ask what they should connect to, who benefits, how growth is managed, how conflict is resolved, and what kind of life the city makes possible. Good urban planning requires engineering, economics, political science, design, sociology, and ecology together — one of the most interdisciplinary fields there is.
+
+## The Transition to Level 5
+
+L5 will address **civil-systems integration at the regional and planetary scale** — how infrastructure, planning, and climate adaptation extend beyond city limits to integrate with national and international systems: high-speed rail networks, continental power grids, transnational water basins, climate-driven migration, and the civilizational infrastructure of a hotter, more urban, more interconnected 21st century. At that scale, choices made in individual cities aggregate into planetary outcomes, and coordination across jurisdictions becomes the binding constraint.
+
+Next: [L5 — Regional and Planetary Civil Systems](./L5_Regional_and_Planetary_Civil_Systems.md) *(deferred)*
