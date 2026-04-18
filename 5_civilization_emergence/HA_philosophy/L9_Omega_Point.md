@@ -1,3 +1,4 @@
+<!-- [Phase 1G flag 2026-04] L9 template pattern detected ("universe questioning itself"). See 0_meta/L9_TEMPLATE_WARNING.md. Individual corrections already applied in Phase 1D (Singularity timeline, IIT, Orch-OR). -->
 # Level 9: The Omega Point - Convergence and Transcendence
 *When human and posthuman meet*
 

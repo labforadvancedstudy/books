@@ -1,3 +1,4 @@
+<!-- [Phase 1G flag 2026-04] L9 template pattern detected ("universe questioning itself"). See 0_meta/L9_TEMPLATE_WARNING.md. Phase 2 will rewrite to domain-specific open-problem form. -->
 # Level 9: Limits and Transcendence - The Edge of Computation
 *What can't be computed, and what computation might become*
 

@@ -1,3 +1,4 @@
+<!-- [Phase 1G flag 2026-04] L9 template pattern partially detected. This file is closer to Correct L9 Form than most — it does enumerate named open problems (dark matter, dark energy, quantum gravity, measurement). See 0_meta/L9_TEMPLATE_WARNING.md. Some speculative asides still need trimming in Phase 2. -->
 # Level 9: The Edge of Knowledge
 ![Physics](../cover/physics.png)
 *Where theories multiply, certainties evaporate, and physics gets honest about what it doesn't know*

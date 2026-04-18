@@ -1,3 +1,4 @@
+<!-- [Phase 1G flag 2026-04] L9 template pattern detected ("universe questioning itself"). See 0_meta/L9_TEMPLATE_WARNING.md. Phase 2 will rewrite to domain-specific open-problem form. -->
 # Level 9: The Choice That Defines
 
 You're standing in the Hall of Futures, the most sacred space in human civilization. Two doors face you. Above the left: "OPTIMIZATION - The Path to Transcendence." Above the right: "EXPERIENCE - The Path to Adventure." Between them, the Keeper of Choices, ancient beyond measure, speaks:
